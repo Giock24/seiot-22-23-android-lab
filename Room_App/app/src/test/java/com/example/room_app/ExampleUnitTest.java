@@ -1,4 +1,4 @@
-package com.example.androidexample00;
+package com.example.room_app;
 
 import org.junit.Test;
 
